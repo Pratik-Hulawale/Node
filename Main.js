@@ -108,7 +108,7 @@ function getcategory(name){
 
 function helpfn() {
     console.log(' List: \n'
-        + '\t 1. node Main.js tree "directoryPath"\n'
+        + '\t 1.node Main.js tree "directoryPath"\n'
         + ' \t 2.node Main.js organize "directoryPath"\n'
         + '\t 3.help'
 
